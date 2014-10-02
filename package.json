@@ -1,0 +1,17 @@
+{
+  "name": "memojs-redis",
+  "description": "A redis store implementation for memojs",
+  "keywords": ["memoize", "memoization", "cache", "redis"],
+  "homepage": "https://github.com/like-falling-leaves/memojs-redis",
+  "bugs": { "url": "https://github.com/like-falling-leaves/memojs-redis/issues" },
+  "license": "MIT",
+  "author": {"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"},
+  "main": "./index.js",
+  "maintainers": [{"name": "Like FallingLeaves", "email": "likefallingleaves@gmail.com"}],
+  "version": "0.0.2",
+  "repository": { "type": "git", "url": "git://github.com/like-falling-leaves/memojs-redis.git" },
+  "readmeFilename": "README.md",
+  "dependencies": {"redis": "~0.12.1"},
+  "devDependencies": {},
+  "scripts": {}
+}
